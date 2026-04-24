@@ -7,6 +7,8 @@ onboarding: 5
 
 The properties panel shows and edits a note's frontmatter in a user-friendly way.
 
+![Pelecanus\_conspicillatus\_-\_Doughboy\_Head.jpg](asset://localhost/%2FUsers%2Fpriyan%2FDocuments%2FNoteVault%2Fattachments%2F1776999710634-Pelecanus_conspicillatus_-_Doughboy_Head.jpg)
+
 ### Type-Aware UI
 
 Different property types render with appropriate controls:
